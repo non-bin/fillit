@@ -1,0 +1,25 @@
+{
+    "name": "fillit",
+    "version": "1.0.0",
+    "description": "Replace placeholders in a template. Replate Templace?",
+    "main": "src/main.js",
+    "scripts": {
+        "test": "src/test.js"
+    },
+    "author": "Alice Jacka",
+    "license": "AGPL-3.0-or-later",
+    "repository": "https://github.com/non-bin/fillit.git",
+    "devDependencies": {
+        "@types/node": "^15.12.2",
+        "@typescript-eslint/eslint-plugin": "^4.26.1",
+        "@typescript-eslint/parser": "^4.26.1",
+        "eslint": "^7.28.0",
+        "eslint-config-standard": "^16.0.3",
+        "eslint-plugin-import": "^2.23.4",
+        "eslint-plugin-node": "^11.1.0",
+        "eslint-plugin-promise": "^5.1.0"
+    },
+    "dependencies": {
+        "typescript": "^4.3.2"
+    }
+}
