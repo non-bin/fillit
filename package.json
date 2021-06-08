@@ -1,0 +1,11 @@
+{
+    "name": "fillit",
+    "version": "1.0.0",
+    "description": "Replace placeholders in a template. Replate Templace?",
+    "main": "src/main.js",
+    "scripts": {
+        "test": "src/test.js"
+    },
+    "author": "Alice Jacka",
+    "license": "AGPL-3.0-or-later"
+}
